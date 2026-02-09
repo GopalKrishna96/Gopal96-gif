@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Gopal96-gif
-- 👀 I’m interested in learning AI
-- 🌱 I’m currently learning btech 1st year
-- 💞️ I’m looking to collaborate on ai projects using python 
+
 
 
 
